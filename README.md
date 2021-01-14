@@ -1,4 +1,4 @@
-# UNeedApp
+# uNeed
 An e-commerce app implemented for a school project.
 
 It is an Android Studio project which implemented with Java.
